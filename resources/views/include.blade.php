@@ -1,6 +1,6 @@
 <html>
     <head>
-        <script src="{{ URL::assets('includes/js/test.js') }}"></script>
+        <script type="text/javascript" src="{{ URL::assets('includes/js/test.js') }}"></script>
         <script>
             function voorbeeld(){
                 alert ("In voorbeeld functie");

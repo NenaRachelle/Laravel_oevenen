@@ -20,7 +20,7 @@ Route::get('/nena', function (){
     
 });
 
-Route::get('/include', function (){
+Route::get('/includefile', function (){
     return view('include');
     
 });
