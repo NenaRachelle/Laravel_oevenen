@@ -15,8 +15,9 @@
         
     </head>
     <body>
-        voorbeeld van includes
-        <input type="button" onclick="voorbeeld()" value="test">
+        voorbeeld van includes<br>
+        <input type="button" onclick="voorbeeld()" value="voorbeeld"><br>
+        <input type="button" onclick="proberen()" value="proberen"><br>
         <div>voor de jquery test</div>
     </body>
 </html>
