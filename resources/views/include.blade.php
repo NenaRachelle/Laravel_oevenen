@@ -17,6 +17,6 @@
     <body>
         voorbeeld van includes
         <input type="button" onclick="voorbeeld()" value="test">
-        <div>voor de jquery test:Nena</div>
+        <div>voor de jquery test</div>
     </body>
 </html>
